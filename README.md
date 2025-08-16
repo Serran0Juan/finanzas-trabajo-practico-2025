@@ -59,22 +59,6 @@ finanzas-trabajo-practico-utn-2025/
 - Riesgo país como factor limitante del múltiplo de valuación
 - Oportunidades en exportación de crudo
 
-## 🛠️ Herramientas Utilizadas
-
-### Tecnología
-```python
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import plotly.graph_objects as go
-```
-
-### Software
-- **Python**: Análisis de datos y modelado DCF
-- **Jupyter Notebooks**: Desarrollo interactivo
-- **Excel**: Modelado financiero complementario
-- **Git**: Control de versiones
-
 ## 📈 Resultados del Análisis
 
 ### Fortalezas de YPF
@@ -107,3 +91,4 @@ import plotly.graph_objects as go
 - Informes sectoriales energéticos
 - Damodaran, A. - Investment Valuation
 - Ross, Westerfield & Jaffe - Corporate Finance
+
