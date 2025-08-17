@@ -47,16 +47,6 @@ Análisis cuantitativo completo de YPF S.A. (NYSE: YPF) combinando análisis té
 - **Análisis:** DCF, Monte Carlo, optimización de cartera
 - **Visualización:** Dashboards y gráficos técnicos
 
-## 📁 Estructura del Proyecto
-
-```
-├── informe_ejecutivo.md          # Análisis completo
-├── codigo_analisis_momentum.py   # Análisis técnico momentum  
-├── codigo_analisis_volatilidad.py # Análisis Bandas Bollinger
-├── codigo_dcf_valuacion.py       # Modelo DCF y Monte Carlo
-├── codigo_dashboard_sectorial.py # Comparación sectorial
-└── README.md                     # Este archivo
-```
 
 ## 🎯 Conclusión
 
