@@ -51,19 +51,6 @@ El análisis emplea un enfoque **bottom-up** que combina:
 
 ---
 
-## RESUMEN EJECUTIVO
-
-**RECOMENDACIÓN FINAL:** 🟢 **COMPRAR** (Posición Moderada)  
-**Target Price:** **USD $65.94**  
-**Upside Esperado:** **+100.0%**  
-**Horizonte de Inversión:** 3-5 años  
-**Nivel de Riesgo:** Alto (Argentina)  
-
-### Conclusión Principal
-YPF presenta una **oportunidad de inversión atractiva** con fundamentales sólidos y valuación conservadora, pero requiere gestión activa del riesgo país argentino. El análisis integral revela un potencial significativo de creación de valor basado en activos estratégicos de clase mundial (Vaca Muerta) y una valuación que no refleja completamente su potencial intrínseco.
-
----
-
 ## I. ANÁLISIS DE CARTERA SECTORIAL
 
 ### Metodología
@@ -420,6 +407,15 @@ Implementación de estrategias de trading basadas en indicadores técnicos clás
 ---
 
 ## X. CONCLUSIONES Y RECOMENDACIÓN FINAL
+
+**RECOMENDACIÓN FINAL:** 🟢 **COMPRAR** (Posición Moderada)  
+**Target Price:** **USD $65.94**  
+**Upside Esperado:** **+100.0%**  
+**Horizonte de Inversión:** 3-5 años  
+**Nivel de Riesgo:** Alto (Argentina)  
+
+### Conclusión Principal
+YPF presenta una **oportunidad de inversión atractiva** con fundamentales sólidos y valuación conservadora, pero requiere gestión activa del riesgo país argentino. El análisis integral revela un potencial significativo de creación de valor basado en activos estratégicos de clase mundial (Vaca Muerta) y una valuación que no refleja completamente su potencial intrínseco.
 
 ### Síntesis del Análisis Integral
 
