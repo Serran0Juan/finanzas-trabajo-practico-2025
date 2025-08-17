@@ -91,9 +91,6 @@ Análisis comparativo del sector energético latinoamericano incluyendo YPF, Pam
   - Pampa: 20%
   - Ecopetrol: 15%
   - Petrobras: 5%
-  <img width="1300" height="990" alt="image" src="https://github.com/user-attachments/assets/61f76f3c-aec8-4f06-b57d-7a71bca64198" />
-<img width="950" height="790" alt="image" src="https://github.com/user-attachments/assets/15a0b7b0-cb3b-4655-bebf-6a6831c03e32" />
-
 
 #### Estacionalidad Identificada
 - **Q4 y Q1:** Trimestres más favorables (+12% promedio)
@@ -463,10 +460,14 @@ YPF presenta una **oportunidad de inversión atractiva** con fundamentales sóli
 ## XI. ANEXOS TÉCNICOS
 
 ### Anexo A: Metodologías Aplicadas
-- **Análisis Técnico:** MACD, RSI, Bollinger, ADX con optimización paramétrica
+-**Frontera Eficiente:** <img width="1250" height="952" alt="image" src="https://github.com/user-attachments/assets/e7ab4112-066c-40c7-b648-60fe3e755915" />
+
+- **Análisis Técnico:** <img width="1787" height="1473" alt="image" src="https://github.com/user-attachments/assets/7aa157c1-954a-4c77-ade6-d0e4f96e3aca" />
+
 - **DCF:** Modelo 3-statement con 15+ variables de sensibilidad
 - **Monte Carlo:** 5,000 simulaciones con distribuciones ajustadas
 - **Análisis Sectorial:** 10 empresas comparables con 25+ métricas
+
 
 ### Anexo B: Supuestos Clave del Modelo
 - **Tipo de Cambio:** USD/ARS proyectado con devaluación gradual
