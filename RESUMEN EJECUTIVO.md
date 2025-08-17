@@ -91,6 +91,8 @@ Análisis comparativo del sector energético latinoamericano incluyendo YPF, Pam
   - Pampa: 20%
   - Ecopetrol: 15%
   - Petrobras: 5%
+  <img width="1300" height="990" alt="image" src="https://github.com/user-attachments/assets/61f76f3c-aec8-4f06-b57d-7a71bca64198" />
+
 
 #### Estacionalidad Identificada
 - **Q4 y Q1:** Trimestres más favorables (+12% promedio)
