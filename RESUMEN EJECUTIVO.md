@@ -11,19 +11,6 @@
 
 ---
 
-# INFORME EJECUTIVO FINANCIERO INTEGRAL
-## ANÁLISIS DE INVERSIÓN YPF S.A. (NYSE: YPF)
-
----
-
-**Fecha del Análisis:** 17 de Agosto de 2025  
-**Analista:** Juan Serrano  
-**Período de Análisis:** Agosto 2020 - Agosto 2025 (5 años)  
-**Precio Actual:** USD $32.97  
-**Ticker:** YPF (NYSE)  
-
----
-
 ## INTRODUCCIÓN Y OBJETIVO PRINCIPAL
 
 ### Propósito del Análisis
